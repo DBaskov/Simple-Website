@@ -1,0 +1,33 @@
+
+#bodyTitle {
+
+  text-align: center;
+}
+
+#bags {
+    position: relative;
+    top: -15px;
+    left: 320px;
+    width: 300px;
+    border-radius: 3px;
+  }
+
+  #text1 {
+    position: relative;
+    top: -10px;
+    left: 320px;
+  }
+  
+  #text2 {
+    position: relative;
+    left: 650px;
+    top: -60px;
+  }
+  
+  #pTotal {
+      position: relative;
+      top: -30px;
+      text-align: center;
+      color: black;
+      font-size: 25px;
+  }

@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'harabarahanditalic';
+    src: url('HarabaraHand-webfont.eot');
+    src: url('HarabaraHand-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HarabaraHand-webfont.woff') format('woff'),
+         url('HarabaraHand-webfont.ttf') format('truetype'),
+         url('HarabaraHand-webfont.svg#harabarahanditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+ #bodyTitle {
+  	position: relative;
+  	top: 0px;
+    left: 40px;
+    font-family: 'harabarahanditalic';
+  }
+ 
+ .ui-page, .ui-panel-content-wrap {
+    min-width: 1024px;
+  	margin-top: 0px;
+    padding-top: 0px;
+    background-color: #51280B;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ui-navbar a.ui-btn {
+	width: 300px;
+}
+
+#bodyContainer {
+	  background-color: black;
+    width: 974px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    border-right-color: black;
+    border-left-color: black;
+}
+
+body {
+  color: black;
+}
+
